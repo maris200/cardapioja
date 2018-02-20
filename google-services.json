@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662254897596",
+    "firebase_url": "https://delivery-45d51.firebaseio.com",
+    "project_id": "delivery-45d51",
+    "storage_bucket": "delivery-45d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662254897596:android:f15582eff281a2a3",
+        "android_client_info": {
+          "package_name": "com.expresso.mototaxi.pocosdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662254897596-053ct4fql7mvklpctg797uveptd2lb95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6lKZadZHr2E43Xw-VOr3073YV7wUQ_OI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
